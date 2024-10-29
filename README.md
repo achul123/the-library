@@ -47,12 +47,12 @@ and Heliactyl (mostly) adheres to [Semantic Versioning](https://semver.org/spec/
 ## legacy@[plexactyl-18.1.3] - 2024-09-29
 
 - :warning: Unofficial, distributed by (formerly) Zen Software - of which used to be by SRYDEN OSS. Although Plexactyl is recommended over stock Heliactyl Legacy 18.0.4.
-- Codename: Excalibur (???)
+- Codename: Ironclad (???)
 - Version: v18.1.3
 - Based on: 
   - Heliactyl Legacy 18.0.0 (Excalibur), July 2024
   - or:
-  - Heliactyl Legacy 18.0.0-beta4 (Excalibur), June 2024 (???)
+  - Heliactyl Legacy 18.0.0-beta4 (Ironclad), June 2024 (???)
 - Expected EOL: Unknown
 - Stack: Express, SQLite, EJS, Keyv, TailwindCSS
 
@@ -61,7 +61,7 @@ and Heliactyl (mostly) adheres to [Semantic Versioning](https://semver.org/spec/
 - :warning: Interim release of Heliactyl (12 <-> 18)
 - Codename: Mageblade
 - Version: v17.0.0
-- Based on: Heliactyl 14.0.6 (Ludendorff Ridge 2), February 2023
+- Based on: Heliactyl Legacy 14.0.6 (Ludendorff Ridge 2), February 2023
 - Expected EOL: June 2024
 - Stack: Express, SQLite, EJS, Keyv, Bootstrap (Heliactyl Legacy 12 frontend)
 
@@ -70,7 +70,49 @@ and Heliactyl (mostly) adheres to [Semantic Versioning](https://semver.org/spec/
 - :warning: Interim release of Heliactyl (11 <-> 12)
 - Codename: Mageblade R
 - Version: v16.0.0
-- Based on: Heliactyl 12.1.1 (Kyiv Ridge), April 2022
+- Based on: Heliactyl Legacy 12.1.1 (Kyiv Ridge), April 2022
 - Expected EOL: December 2023
 - Stack: Express, SQLite, EJS, Keyv, Bootstrap (Heliactyl Legacy 11 frontend)
+
+## legacy@[15.0.0-beta6] - 2022-30-11
+
+- Codename: Mannequin
+- Version: v15.0.0-beta6
+- Based on: Heliactyl Legacy 15 (initial base release)
+- Expected EOL: January 2023
+- Stack: Express, SQLite/MySQL, EJS, TailwindCSS
+
+## legacy@[14.11.1] - 2024-05-19
+
+- Codename: Cascade
+- Version: v14.11.1
+- Based on: Heliactyl Legacy 12.1.1 (Kyiv Ridge), April 2022
+- Expected EOL: September 2024
+- Stack: Express, SQLite, EJS, Keyv, TailwindCSS
+
+## legacy@[12.7.1] - 2023-03-18
+
+- Codename: Gekyume
+- Version: v12.7.1
+- Based on: Heliactyl Legacy 12.1.1 (Kyiv Ridge), April 2022
+- Expected EOL: December 2023
+- Stack: Express, SQLite, EJS, Keyv, Bootstrap (Heliactyl Legacy 12 frontend)
+
+## legacy@[11.4.4] - 2021-12-09
+
+- Codename: ???
+- Version: v11.4.4
+- Based on: Heliactyl Legacy N 10.2.2 (???), October 2021
+- Expected EOL: March 2022
+- Stack: Express, SQLite, EJS, Keyv, Bootstrap (Heliactyl Legacy 11 frontend)
+
+## legacy@[N 10.2.2] - 2021-10-12
+
+- Codename: ???
+- Version: N v10.2.2
+- Based on: ???
+- Expected EOL: February 2022
+- Stack: Express, SQLite, EJS, Keyv, Bootstrap (Heliactyl Legacy N frontend)
+
+... there are more versions going back to Heliactyl 1, but it's not worth trying to dig them out.
 
