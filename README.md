@@ -55,3 +55,22 @@ and Heliactyl (mostly) adheres to [Semantic Versioning](https://semver.org/spec/
   - Heliactyl Legacy 18.0.0-beta4 (Excalibur), June 2024 (???)
 - Expected EOL: Unknown
 - Stack: Express, SQLite, EJS, Keyv, TailwindCSS
+
+## legacy@[17.0.0] - 2024-03-20
+
+- :warning: Interim release of Heliactyl (12 <-> 18)
+- Codename: Mageblade
+- Version: v17.0.0
+- Based on: Heliactyl 14.0.6 (Ludendorff Ridge 2), February 2023
+- Expected EOL: June 2024
+- Stack: Express, SQLite, EJS, Keyv, Bootstrap (Heliactyl Legacy 12 frontend)
+
+## legacy@[16.0.0] - 2023-10-19
+
+- :warning: Interim release of Heliactyl (11 <-> 12)
+- Codename: Mageblade R
+- Version: v16.0.0
+- Based on: Heliactyl 12.1.1 (Kyiv Ridge), April 2022
+- Expected EOL: December 2023
+- Stack: Express, SQLite, EJS, Keyv, Bootstrap (Heliactyl Legacy 11 frontend)
+
