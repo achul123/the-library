@@ -99,6 +99,14 @@ and Heliactyl (mostly) adheres to [Semantic Versioning](https://semver.org/spec/
 - Expected EOL: September 2024
 - Stack: Express, SQLite, EJS, Keyv, TailwindCSS
 
+## legacy@[fixed-12.7.9] - 2024-02-29
+
+- Codename: Flameing
+- Version: v12.7.9
+- Based on: Heliactyl Legacy 12.7.1 (Gekyume), April 2022
+- Expected EOL: ???
+- Stack: Express, SQLite, EJS, Bootstrap (Heliactyl Legacy 12 frontend)
+
 ## legacy@[12.7.1] - 2023-03-18
 
 - Codename: Gekyume
@@ -106,14 +114,6 @@ and Heliactyl (mostly) adheres to [Semantic Versioning](https://semver.org/spec/
 - Based on: Heliactyl Legacy 12.1.1 (Kyiv Ridge), April 2022
 - Expected EOL: December 2023
 - Stack: Express, SQLite, EJS, Keyv, Bootstrap (Heliactyl Legacy 12 frontend)
-
-## legacy@[fixed-12.7.9] - 2024-02-29
-
-- Codename: Flaming
-- Version: v12.7.1
-- Based on: Heliactyl Legacy 12.7.1 (Gekyume), April 2022
-- Expected EOL: ???
-- Stack: Express, SQLite, EJS, Bootstrap (Heliactyl Legacy 12 frontend)
 
 ## legacy@[11.4.4] - 2021-12-09
 
