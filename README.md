@@ -115,6 +115,16 @@ and Heliactyl (mostly) adheres to [Semantic Versioning](https://semver.org/spec/
 - Expected EOL: December 2023
 - Stack: Express, SQLite, EJS, Keyv, Bootstrap (Heliactyl Legacy 12 frontend)
 
+*Heliactyl Legacy 13 is older than Heliactyl Legacy 12 - as 13 stopped receiving updates fairly soon after launch. Versions distributed by Ghostload under "Heliactyl-Project" are not included here.*
+
+## legacy@[13.0.4] - 2022-03-15
+
+- Codename: Catalyst
+- Version: v13.0.4
+- Based on: Heliactyl Legacy 12.1.0 (Kyiv Ridge), April 2022
+- Expected EOL: December 2022
+- Stack: Express, SQLite, EJS, Bootstrap
+
 ## legacy@[11.4.4] - 2021-12-09
 
 - Codename: ???
