@@ -3,6 +3,22 @@
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and Heliactyl (mostly) adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## prism@0.6.x - 2024-12-24
+
+- Codename: Meridian
+- Version: v0.6.13 (Private)
+- Based on: Heliactyl Next 3.0 (Aeolus), October 2024
+- Expected EOL: September 2030
+- Stack: Express, SQLite/MySQL, React, Vite, PrismDB, TailwindCSS
+
+## prism@0.5.0 - 2024-12-24
+
+- Codename: Adelante
+- Version: v0.5.0
+- Based on: Heliactyl Next 3.0 (Aeolus), October 2024
+- Expected EOL: August 2030
+- Stack: Express, SQLite/MySQL, React, Vite, PrismDB, TailwindCSS
+
 ## next@[3.0.0] - 2024-10-30
 
 - Codename: Aeolus
