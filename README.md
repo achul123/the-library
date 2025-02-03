@@ -3,7 +3,7 @@
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and Heliactyl (mostly) adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
-## prism@0.6.x - 2024-12-24
+## prism@0.6.13 - 2024-12-24
 
 - Codename: Meridian
 - Version: v0.6.13 (Private)
