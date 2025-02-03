@@ -104,7 +104,7 @@ and Heliactyl (mostly) adheres to [Semantic Versioning](https://semver.org/spec/
 - Codename: Flameing
 - Version: v12.7.9
 - Based on: Heliactyl Legacy 12.7.1 (Gekyume), April 2022
-- Expected EOL: ???
+- Expected EOL: 29 January 2025
 - Stack: Express, SQLite, EJS, Bootstrap (Heliactyl Legacy 12 frontend)
 
 ## legacy@[12.7.1] - 2023-03-18
