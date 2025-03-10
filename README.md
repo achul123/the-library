@@ -3,6 +3,22 @@
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and Heliactyl (mostly) adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## next@[7.1.x] - 2025-02-27
+
+- Codename: Ceniza
+- Version: v7.1.18
+- Based on: Heliactyl Next 7.0 (Alcanzar), March 2025
+- Expected EOL: December 2040
+- Stack: Hono, MySQL, React, Vite, HeliactylDB 8, TailwindCSS
+
+## next@[7.0.x] - 2025-02-27
+
+- Codename: Alcanzar
+- Version: v7.0.4
+- Based on: Heliactyl Next 6.0 (Avanzar), February 2025
+- Expected EOL: September 2036
+- Stack: Express, SQLite/MySQL, React, Vite, HeliactylDB 7, TailwindCSS
+
 ## next@[6.x.x] - 2025-02-27
 
 - Codename: Avanzar
