@@ -3,7 +3,7 @@
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and Heliactyl (mostly) adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
-## next@[9.0.x] - 2025-02-27
+## next@[9.0.x] - 2025-04-04
 
 - Codename: Namek
 - Version: v9.0.12
@@ -11,7 +11,7 @@ and Heliactyl (mostly) adheres to [Semantic Versioning](https://semver.org/spec/
 - Expected EOL: January 2041
 - Stack: Hono, MySQL, React, Vite, HeliactylDB 9, TailwindCSS
 
-## next@[8.1.x] - 2025-02-27
+## next@[8.1.x] - 2025-03-15
 
 - Codename: Pistolero
 - Version: v8.1.4
@@ -27,7 +27,7 @@ and Heliactyl (mostly) adheres to [Semantic Versioning](https://semver.org/spec/
 - Expected EOL: December 2040
 - Stack: Hono, MySQL, React, Vite, HeliactylDB 8, TailwindCSS
 
-## next@[7.0.x] - 2025-02-27
+## next@[7.0.x] - 2025-02-15
 
 - Codename: Alcanzar
 - Version: v7.0.4
@@ -35,7 +35,7 @@ and Heliactyl (mostly) adheres to [Semantic Versioning](https://semver.org/spec/
 - Expected EOL: September 2036
 - Stack: Express, SQLite/MySQL, React, Vite, HeliactylDB 7, TailwindCSS
 
-## next@[6.x.x] - 2025-02-27
+## next@[6.x.x] - 2025-02-01
 
 - Codename: Avanzar
 - Version: v6.0.0-dev
@@ -43,7 +43,7 @@ and Heliactyl (mostly) adheres to [Semantic Versioning](https://semver.org/spec/
 - Expected EOL: September 2034
 - Stack: Express, SQLite/MySQL, React, Vite, HeliactylDB 6, TailwindCSS
 
-## next@[5.x.x] - 2024-01-18
+## next@[5.x.x] - 2025-01-18
 
 - Codename: Meridian
 - Version: v5.0.0-dev
