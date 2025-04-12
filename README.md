@@ -3,6 +3,22 @@
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and Heliactyl (mostly) adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## next@[9.0.x] - 2025-02-27
+
+- Codename: Namek
+- Version: v9.0.12
+- Based on: Heliactyl Next 8.1.4 (Pistolero), March 2025
+- Expected EOL: January 2041
+- Stack: Hono, MySQL, React, Vite, HeliactylDB 9, TailwindCSS
+
+## next@[8.1.x] - 2025-02-27
+
+- Codename: Pistolero
+- Version: v8.1.4
+- Based on: Heliactyl Next 7.0 (Alcanzar), March 2025
+- Expected EOL: December 2040
+- Stack: Hono, MySQL, React, Vite, HeliactylDB 8, TailwindCSS
+
 ## next@[7.1.x] - 2025-02-27
 
 - Codename: Ceniza
