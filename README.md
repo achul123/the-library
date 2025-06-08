@@ -3,10 +3,26 @@
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and Heliactyl (mostly) adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## next@[11.0.x] - 2025-06-08 (dev) (unreleased)
+
+- Codename: Interlagos
+- Version: v11.0.0-dev
+- Based on: Heliactyl Core 11 (Taphos), est. October 2025
+- Expected EOL: -
+
+## core@[11.0.x] - 2025-06-08 (dev) (unreleased)
+
+- Codename: Taphos
+- Version: v11.0.0-dev
+- Expected EOL: -
+- Subservices: HeliactylDB 11, Radar X 11
+- Note: This is a completely rebuilt version of Heliactyl from the ground up in TypeScript with Bun HTTP and SQLite.
+
 ## next@[10.0.x] - 2025-05-17
 
 - Codename: Toledo
-- Version: v10.0.0
+- Version: v10.0.19
+- Build: (next) 3xx
 - Based on: Heliactyl Next 8.1.4 (Pistolero), March 2025
 - Expected EOL: -
 
@@ -14,6 +30,7 @@ and Heliactyl (mostly) adheres to [Semantic Versioning](https://semver.org/spec/
 
 - Codename: Namek
 - Version: v9.0.12
+- Build: (next) 2xx
 - Based on: Heliactyl Next 8.1.4 (Pistolero), March 2025
 - Expected EOL: January 2041
 
@@ -21,6 +38,7 @@ and Heliactyl (mostly) adheres to [Semantic Versioning](https://semver.org/spec/
 
 - Codename: Pistolero
 - Version: v8.1.4
+- Build: (next) 2xx
 - Based on: Heliactyl Next 7.0 (Alcanzar), March 2025
 - Expected EOL: December 2040
 
@@ -28,6 +46,7 @@ and Heliactyl (mostly) adheres to [Semantic Versioning](https://semver.org/spec/
 
 - Codename: Ceniza
 - Version: v7.1.18
+- Build: (next) 1xx
 - Based on: Heliactyl Next 7.0 (Alcanzar), March 2025
 - Expected EOL: December 2040
 
@@ -35,6 +54,7 @@ and Heliactyl (mostly) adheres to [Semantic Versioning](https://semver.org/spec/
 
 - Codename: Alcanzar
 - Version: v7.0.4
+- Build: (next) 1xx
 - Based on: Heliactyl Next 6.0 (Avanzar), February 2025
 - Expected EOL: September 2036
 - Stack: Express, SQLite/MySQL, React, Vite, HeliactylDB 7, TailwindCSS
