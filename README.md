@@ -3,19 +3,19 @@
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and Heliactyl (mostly) adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
-## next@[11.0.x] - 2025-06-08 (dev) (unreleased)
+## next@[11.0.x] - 2025-06-16 (dev) (unreleased)
 
 - Codename: Interlagos
 - Version: v11.0.0-dev
-- Based on: Heliactyl Core 11 (Taphos), est. October 2025
+- Based on: Heliactyl Core 11 (Taphos), est. February 2026
 - Expected EOL: -
 
-## core@[11.0.x] - 2025-06-08 (dev) (unreleased)
+## core@[11.0.x] - 2025-06-16 (dev) (unreleased)
 
 - Codename: Taphos
 - Version: v11.0.0-dev
 - Expected EOL: -
-- Subservices: HeliactylDB 11, Radar X 11
+- Subservices: HeliactylDB 11, Radar 11 mini
 - Note: This is a completely rebuilt version of Heliactyl from the ground up in TypeScript with Bun HTTP and SQLite.
 
 ## next@[10.0.x] - 2025-05-17
