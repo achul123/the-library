@@ -1,0 +1,44 @@
+{
+  "heliactyl": {
+    "legacy": {
+      "v12": {
+        "version": "12.7.1",
+        "status": "supported",
+        "branch": "v12.x",
+        "notes": "Stable legacy version, partially maintained."
+      },
+      "v14": {
+        "version": "14.11.1",
+        "status": "supported",
+        "branch": "v14.x",
+        "notes": "Stable legacy version, partially maintained."
+      }
+    },
+    "next": {
+      "edge": {
+        "version": "12-dev-preview-2508",
+        "build": "2025-08-06",
+        "release": "Developer Preview 25.08",
+        "status": "development",
+        "branch": "v12",
+        "notes": "Highly experimental version. Next generation Heliactyl."
+      },
+      "current": {
+        "v11": {
+          "version": "11.0.0-beta3",
+          "status": "supported",
+          "codename": "Interlagos",
+          "branch": "v11.x",
+          "notes": "Heliactyl Next stable channel. Actively supported."
+        },
+        "v10": {
+          "version": "10.0.19",
+          "status": "supported",
+          "codename": "Toledo",
+          "branch": "v10.x",
+          "notes": "Heliactyl Next stable channel. Actively supported."
+        }
+      }
+    }
+  }
+}
