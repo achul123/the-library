@@ -1,22 +1,21 @@
 # Heliactyl version library
 
-The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
-and Heliactyl (mostly) adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
+[!] Note: Since Heliactyl Next 12, we no longer adhere to Semantic Versioning and now use our own versioning system.
 
-## next@[11.0.x] - 2025-06-16 (dev) (unreleased)
+## next@[12] - Developer Preview 25.08 - 2025-08-06 (edge)
+
+- Release: dev-preview-2508
+- Build: 2025-08-06
+- Codename: Paragon
+- Generation: Next 12
+- Edition: base, enterprise
+
+## next@[11.0.x] - 2025-07-15 (current)
 
 - Codename: Interlagos
-- Version: v11.0.0-dev
-- Based on: Heliactyl Core 11 (Taphos), est. February 2026
+- Version: v11.0.0-beta3
+- Based on: Heliactyl Next 10.0.19 (Toledo), May 2025
 - Expected EOL: -
-
-## core@[11.0.x] - 2025-06-16 (dev) (unreleased)
-
-- Codename: Taphos
-- Version: v11.0.0-dev
-- Expected EOL: -
-- Subservices: HeliactylDB 11, Radar 11 mini
-- Note: This is a completely rebuilt version of Heliactyl from the ground up in TypeScript with Bun HTTP and SQLite.
 
 ## next@[10.0.x] - 2025-05-17
 
@@ -24,7 +23,7 @@ and Heliactyl (mostly) adheres to [Semantic Versioning](https://semver.org/spec/
 - Version: v10.0.19
 - Build: (next) 3xx
 - Based on: Heliactyl Next 8.1.4 (Pistolero), March 2025
-- Expected EOL: -
+- Expected EOL: February 2042
 
 ## next@[9.0.x] - 2025-04-04
 
