@@ -1,6 +1,6 @@
 # Heliactyl version library
 
-[!] Note: Since Heliactyl Next 12, we no longer adhere to Semantic Versioning and now use our own versioning system.
+Note: Since Heliactyl Next 12, we no longer adhere to Semantic Versioning and now use our own versioning system. The latest version is **Heliactyl Next 12 Developer Preview 25.08**.
 
 ## next@[12] - Developer Preview 25.08 - 2025-08-06 (edge)
 
