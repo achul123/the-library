@@ -4,13 +4,19 @@
       "v12": {
         "version": "12.7.1",
         "status": "supported",
-        "branch": "v12.x",
+        "branch": "v12.x (Gekyume)",
         "notes": "Stable legacy version, partially maintained."
       },
       "v14": {
         "version": "14.11.1",
         "status": "supported",
-        "branch": "v14.x",
+        "branch": "v14.x (Cascade)",
+        "notes": "Stable legacy version, partially maintained."
+      },
+      "v19": {
+        "version": "19.4.4",
+        "status": "supported",
+        "branch": "v19.x (Desiro)",
         "notes": "Stable legacy version, partially maintained."
       }
     },
@@ -20,7 +26,7 @@
         "build": "2025-08-06",
         "release": "Developer Preview 25.08",
         "status": "development",
-        "branch": "v12",
+        "branch": "v12.x",
         "notes": "Highly experimental version. Next generation Heliactyl."
       },
       "current": {
