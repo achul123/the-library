@@ -2,13 +2,13 @@
 
 Note: Since Heliactyl Next 12, we no longer adhere to Semantic Versioning and now use our own versioning system. The latest version is **Heliactyl Next 12 Developer Preview 25.08**.
 
-## next@[12] - Developer Preview 25.08 - 2025-08-06 (edge)
+## next@[12] - Developer Preview 2508 - 2025-08-06 (edge)
 
 - Release: dev-preview-2508
 - Build: 2025-08-06
 - Codename: Paragon
 - Generation: Next 12
-- Edition: base, enterprise
+- Database heliadb@12, using PostgreSQL
 
 ## next@[11.0.x] - 2025-07-15 (current)
 
