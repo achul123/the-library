@@ -1,8 +1,16 @@
 # Heliactyl version library
 
-Note: Since Heliactyl Next 12, we no longer adhere to Semantic Versioning and now use our own versioning system. The latest version is **Heliactyl Next 12 Developer Preview 25.08**.
+Note: Since Heliactyl Next 12, we no longer adhere to Semantic Versioning and now use our own versioning system. The latest version is **Heliactyl Next 13 2509**.
 
-## next@[12] - Developer Preview 2508 - 2025-08-06 (edge)
+## next@[13] - Developer Preview 2509 - 2025-09-01 (edge)
+
+- Release: dev-preview-2509
+- Build: 2025-09-01
+- Codename: Montelara
+- Generation: Next 13
+- Database heliadb@13, using PostgreSQL
+
+## next@[12] - Developer Preview 2508 - 2025-08-06 (current)
 
 - Release: dev-preview-2508
 - Build: 2025-08-06
@@ -10,7 +18,7 @@ Note: Since Heliactyl Next 12, we no longer adhere to Semantic Versioning and no
 - Generation: Next 12
 - Database heliadb@12, using PostgreSQL
 
-## next@[11.0.x] - 2025-07-15 (current)
+## next@[11.0.x] - 2025-07-15 (previous)
 
 - Codename: Interlagos
 - Version: v11.0.0-beta3
