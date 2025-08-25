@@ -22,11 +22,11 @@
     },
     "next": {
       "edge": {
-        "version": "12-dev-preview-2508",
-        "build": "2025-08-06",
-        "release": "Developer Preview 25.08",
+        "version": "13-2509",
+        "build": "2025-09-01",
+        "release": "Developer Preview 2509",
         "status": "development",
-        "branch": "v12.x",
+        "branch": "v13.x",
         "notes": "Highly experimental version. Next generation Heliactyl."
       },
       "current": {
