@@ -1,16 +1,40 @@
 # Heliactyl version library
 
-Note: Since Heliactyl Next 12, we no longer adhere to Semantic Versioning and now use our own versioning system. The latest version is **Heliactyl Next 13 2509**.
+Note: Versions 12 to 14 used a different month based versioning system.
 
-## next@[13] - Developer Preview 2509 - 2025-09-01 (edge)
+# Next version
 
-- Release: dev-preview-2509
+The next major version will be Heliactyl Next 15, expected October 3. Following the 3-5 week cycle, Heliactyl Next 15 (Manhattan) will be a major update, alongside Heliactyl Next 5 (Meridian) and Heliactyl Next 10 (Toledo).
+
+## next@[15.0.0-dev] - 2025-09-19 (dev)
+
+- Release: next@15.0.0-dev (channel: dev)
+- Build: 2025-09-19
+- Codename: Manhattan
+- Generation: Next 15
+- Database heliadb@15.0.0-dev, using Heliactyl's native Caraspace (caraspace@15.0.0-dev) database (adaptors: native, SQLite, MySQL, PostgreSQL)
+- UI: heliaui@15.0.0-dev (Fluid Design System)
+- Daemon: cryogenic@15.0.0-dev (codename: Edgewater, generation: Cryogenic 15)
+- Panel API: Pterodactyl (1.7+) + stratum@15.0.0-dev (codename: Riverdale, generation: Stratum 15)
+
+## next@[14] - 2025-09-13 (current)
+
+- Release: stable-2510
+- Build: 2025-09-13
+- Codename: Manzanera
+- Generation: Next 14
+- Database heliadb@14.0.7, using PostgreSQL
+- UI: heliaui@14.2.2
+
+## next@[13] - 2025-09-01 (previous)
+
+- Release: stable-2509
 - Build: 2025-09-01
 - Codename: Montelara
 - Generation: Next 13
 - Database heliadb@13, using PostgreSQL
 
-## next@[12] - Developer Preview 2508 - 2025-08-06 (current)
+## next@[12] - Developer Preview 2508 - 2025-08-06
 
 - Release: dev-preview-2508
 - Build: 2025-08-06
