@@ -248,7 +248,7 @@ The next major version will be Heliactyl Next 15, expected October 3. Following 
 
 ## legacy@[11.4.4] - 2021-12-09
 
-- Codename: ???
+- Codename: Kanjut
 - Version: v11.4.4
 - Based on: Heliactyl Legacy N 10.2.2 (???), October 2021
 - Expected EOL: March 2022
